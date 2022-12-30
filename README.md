@@ -55,5 +55,9 @@ Here is an actual weather report for your location (it's live!):
 
 ● Weather API
 
+##Access from the server 
+
+https://inquisitive-unicorn-8d3144.netlify.app/
+
 
 
